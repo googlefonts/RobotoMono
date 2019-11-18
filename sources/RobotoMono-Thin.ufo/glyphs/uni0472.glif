@@ -4,8 +4,8 @@
   <unicode hex="0472"/>
   <outline>
     <contour>
-      <point x="1086" y="619" type="line"/>
-      <point x="1085" y="548"/>
+      <point x="1086" y="619" type="line" smooth="yes"/>
+      <point x="1086.0" y="548"/>
       <point x="1061" y="398"/>
       <point x="1037.0" y="327.0" type="qcurve" smooth="yes" name="inserted"/>
       <point x="1013" y="256"/>
@@ -63,8 +63,8 @@
       <point x="260" y="1168"/>
       <point x="239.0" y="1103.0" type="qcurve" smooth="yes" name="inserted"/>
       <point x="218" y="1038"/>
-      <point x="198" y="902"/>
-      <point x="197" y="839" type="qcurve"/>
+      <point x="197.0" y="902"/>
+      <point x="197" y="839" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
       <point x="1033" y="701" type="line"/>

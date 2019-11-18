@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="750" y="1456" type="line"/>
-      <point x="753" y="345" type="line" smooth="yes"/>
+      <point x="753" y="345" type="line"/>
       <point x="753" y="324"/>
       <point x="754" y="262"/>
       <point x="757.5" y="227.5" type="qcurve" smooth="yes" name="inserted"/>

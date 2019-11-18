@@ -28,10 +28,8 @@
       <point x="908" y="389"/>
       <point x="842.0" y="436.5" type="qcurve" smooth="yes" name="inserted"/>
       <point x="776" y="484"/>
-      <point x="604" y="529"/>
-      <point x="511" y="530" type="qcurve" smooth="yes"/>
-      <point x="507" y="530" type="line"/>
-      <point x="506" y="529" type="line"/>
+      <point x="605" y="529"/>
+      <point x="511" y="529" type="qcurve"/>
       <point x="298" y="529" type="line"/>
       <point x="298" y="0" type="line"/>
       <point x="243" y="0" type="line"/>

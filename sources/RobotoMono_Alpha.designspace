@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="0" maximum="100" default="0"/>
+  </axes>
+  <sources>
+    <source filename="RobotoMono-Thin.ufo" familyname="RobotoMono" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="RobotoMono-Bold.ufo" familyname="RobotoMono" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

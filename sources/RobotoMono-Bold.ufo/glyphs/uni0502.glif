@@ -28,18 +28,12 @@
       <point x="969" y="376"/>
       <point x="983" y="492"/>
       <point x="984" y="551" type="qcurve" smooth="yes"/>
-      <point x="985" y="596"/>
-      <point x="977" y="715"/>
-      <point x="969.5" y="777.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="962" y="840"/>
-      <point x="939" y="959"/>
+      <point x="985.9862166068465" y="640.3797473080899"/>
+      <point x="954.2096404541031" y="913.3710786376906"/>
       <point x="924" y="1004" type="qcurve"/>
       <point x="1197" y="1004" type="line"/>
-      <point x="1210" y="959"/>
-      <point x="1236" y="842"/>
-      <point x="1245.5" y="780.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="1255" y="719"/>
-      <point x="1265" y="599"/>
+      <point x="1223.1757293146545" y="913.3917062185039"/>
+      <point x="1265.9866626499029" y="646.3598071953384"/>
       <point x="1264" y="551" type="qcurve" smooth="yes"/>
       <point x="1262" y="428"/>
       <point x="1208" y="225"/>
