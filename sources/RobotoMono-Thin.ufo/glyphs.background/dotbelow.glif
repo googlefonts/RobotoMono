@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
+  <outline>
+    <contour>
+      <point x="-812" y="-218" type="qcurve" smooth="yes"/>
+      <point x="-813" y="-196"/>
+      <point x="-778" y="-162"/>
+      <point x="-756" y="-162" type="qcurve" smooth="yes"/>
+      <point x="-734" y="-162"/>
+      <point x="-698" y="-195"/>
+      <point x="-698" y="-218" type="qcurve" smooth="yes"/>
+      <point x="-698" y="-241"/>
+      <point x="-734" y="-273"/>
+      <point x="-756" y="-273" type="qcurve" smooth="yes"/>
+      <point x="-778" y="-273"/>
+      <point x="-812" y="-241"/>
+    </contour>
+  </outline>
+</glyph>

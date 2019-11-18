@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="-755" y="-224" type="qcurve" smooth="yes"/>
+      <point x="-755" y="-194"/>
+      <point x="-733" y="-142"/>
+      <point x="-712.0" y="-123.5" type="qcurve" smooth="yes"/>
+      <point x="-691" y="-105"/>
+      <point x="-631" y="-83"/>
+      <point x="-593" y="-83" type="qcurve" smooth="yes"/>
+      <point x="-556" y="-83"/>
+      <point x="-496" y="-105"/>
+      <point x="-475.0" y="-123.5" type="qcurve" smooth="yes"/>
+      <point x="-454" y="-142"/>
+      <point x="-431" y="-194"/>
+      <point x="-431" y="-224" type="qcurve" smooth="yes"/>
+      <point x="-431" y="-254"/>
+      <point x="-454" y="-305"/>
+      <point x="-475.0" y="-324.0" type="qcurve" smooth="yes"/>
+      <point x="-496" y="-343"/>
+      <point x="-556" y="-364"/>
+      <point x="-593" y="-364" type="qcurve" smooth="yes"/>
+      <point x="-631" y="-364"/>
+      <point x="-691" y="-343"/>
+      <point x="-712.0" y="-324.0" type="qcurve" smooth="yes"/>
+      <point x="-733" y="-305"/>
+      <point x="-755" y="-254"/>
+    </contour>
+  </outline>
+</glyph>

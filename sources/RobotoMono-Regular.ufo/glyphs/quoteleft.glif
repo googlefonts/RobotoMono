@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="1229"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="492" y="1185" type="line" smooth="yes"/>
+      <point x="492" y="1232"/>
+      <point x="515" y="1336"/>
+      <point x="537.5" y="1386.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="560" y="1437"/>
+      <point x="624" y="1529"/>
+      <point x="666" y="1565" type="qcurve"/>
+      <point x="767" y="1493" type="line"/>
+      <point x="720" y="1422"/>
+      <point x="673" y="1274"/>
+      <point x="673" y="1188" type="qcurve" smooth="yes"/>
+      <point x="673" y="1039" type="line"/>
+      <point x="492" y="1039" type="line"/>
+    </contour>
+  </outline>
+</glyph>

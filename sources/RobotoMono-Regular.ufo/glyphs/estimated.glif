@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="estimated" format="2">
+  <advance width="1229"/>
+  <unicode hex="212E"/>
+  <outline>
+    <contour>
+      <point x="1047" y="94" type="line"/>
+      <point x="962" y="41"/>
+      <point x="776" y="-20"/>
+      <point x="677" y="-20" type="qcurve" smooth="yes"/>
+      <point x="567" y="-20"/>
+      <point x="376" y="69"/>
+      <point x="305.5" y="145.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="235" y="222"/>
+      <point x="153" y="426"/>
+      <point x="153" y="541" type="qcurve" smooth="yes"/>
+      <point x="153" y="617"/>
+      <point x="194" y="760"/>
+      <point x="230.0" y="822.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="266" y="884"/>
+      <point x="365" y="987"/>
+      <point x="423.5" y="1024.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="482" y="1061"/>
+      <point x="611" y="1102"/>
+      <point x="677" y="1102" type="qcurve" smooth="yes"/>
+      <point x="780" y="1102"/>
+      <point x="961" y="1020"/>
+      <point x="1027.5" y="947.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1094" y="874"/>
+      <point x="1172" y="676"/>
+      <point x="1172" y="561" type="qcurve" smooth="yes"/>
+      <point x="1172" y="514" type="line"/>
+      <point x="404" y="514" type="line"/>
+      <point x="404" y="186" type="line"/>
+      <point x="459" y="135"/>
+      <point x="599" y="76"/>
+      <point x="677" y="76" type="qcurve" smooth="yes"/>
+      <point x="771" y="75"/>
+      <point x="956" y="135"/>
+      <point x="1045" y="198" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="677" y="1008" type="qcurve" smooth="yes"/>
+      <point x="601" y="1008"/>
+      <point x="461" y="942"/>
+      <point x="404" y="886" type="qcurve"/>
+      <point x="404" y="609" type="line"/>
+      <point x="944" y="609" type="line"/>
+      <point x="944" y="895" type="line"/>
+      <point x="890" y="946"/>
+      <point x="754" y="1008"/>
+    </contour>
+  </outline>
+</glyph>

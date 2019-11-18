@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot.smcp" format="2">
+  <advance width="1229"/>
+  <outline>
+    <component base="L.smcp"/>
+    <component base="dotaccent" xOffset="31" yOffset="-703"/>
+  </outline>
+</glyph>

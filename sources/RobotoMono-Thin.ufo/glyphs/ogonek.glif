@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="1229"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="691" y="0" type="line"/>
+      <point x="662" y="-22"/>
+      <point x="593" y="-74"/>
+      <point x="563.0" y="-104.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="533" y="-134"/>
+      <point x="492" y="-205"/>
+      <point x="492" y="-246" type="qcurve" smooth="yes"/>
+      <point x="493" y="-291"/>
+      <point x="547" y="-340"/>
+      <point x="592" y="-341" type="qcurve" smooth="yes"/>
+      <point x="624" y="-342"/>
+      <point x="682" y="-320"/>
+      <point x="708" y="-303" type="qcurve"/>
+      <point x="724" y="-351" type="line"/>
+      <point x="694" y="-372"/>
+      <point x="629" y="-395"/>
+      <point x="592" y="-395" type="qcurve" smooth="yes"/>
+      <point x="558" y="-395"/>
+      <point x="501" y="-374"/>
+      <point x="481.0" y="-355.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="461" y="-336"/>
+      <point x="438" y="-281"/>
+      <point x="438" y="-246" type="qcurve" smooth="yes"/>
+      <point x="438" y="-203"/>
+      <point x="481" y="-126"/>
+      <point x="512.5" y="-93.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="544" y="-60"/>
+      <point x="617" y="-3"/>
+      <point x="647" y="20" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelow" format="2">
+  <advance width="1229"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-755" y="-224" type="qcurve" smooth="yes"/>
+      <point x="-755.0" y="-164.70019107583607"/>
+      <point x="-669.9081035630859" y="-83.0"/>
+      <point x="-593" y="-83" type="qcurve" smooth="yes"/>
+      <point x="-518.1157938991006" y="-83.0"/>
+      <point x="-431.0" y="-164.70019107583605"/>
+      <point x="-431" y="-224" type="qcurve" smooth="yes"/>
+      <point x="-431.0" y="-284.0"/>
+      <point x="-519.0" y="-364.0"/>
+      <point x="-593" y="-364" type="qcurve" smooth="yes"/>
+      <point x="-668.9999999999999" y="-364.0"/>
+      <point x="-755.0" y="-284.0"/>
+    </contour>
+  </outline>
+</glyph>
