@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="E.smcp"/>
+    <component base="dotaccent" xOffset="-28" yOffset="55"/>
+  </outline>
+</glyph>

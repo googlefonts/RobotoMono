@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="1066" y="1165" type="line"/>
+      <point x="1067" y="385" type="line"/>
+      <point x="1065" y="290"/>
+      <point x="994" y="142"/>
+      <point x="934.0" y="90.0" type="qcurve" smooth="yes"/>
+      <point x="874" y="38"/>
+      <point x="714" y="-16"/>
+      <point x="623" y="-16" type="qcurve" smooth="yes"/>
+      <point x="531" y="-16"/>
+      <point x="371" y="38"/>
+      <point x="311.5" y="89.0" type="qcurve" smooth="yes"/>
+      <point x="252" y="140"/>
+      <point x="182" y="289"/>
+      <point x="181" y="385" type="qcurve" smooth="yes"/>
+      <point x="182" y="1165" type="line"/>
+      <point x="363" y="1165" type="line"/>
+      <point x="364" y="385" type="line" smooth="yes"/>
+      <point x="365" y="326"/>
+      <point x="402" y="233"/>
+      <point x="435.5" y="201.0" type="qcurve" smooth="yes"/>
+      <point x="469" y="169"/>
+      <point x="564" y="135"/>
+      <point x="623" y="135" type="qcurve" smooth="yes"/>
+      <point x="682" y="135"/>
+      <point x="777" y="169"/>
+      <point x="810.5" y="201.0" type="qcurve" smooth="yes"/>
+      <point x="844" y="233"/>
+      <point x="881" y="326"/>
+      <point x="882" y="385" type="qcurve" smooth="yes"/>
+      <point x="883" y="1165" type="line"/>
+    </contour>
+  </outline>
+</glyph>

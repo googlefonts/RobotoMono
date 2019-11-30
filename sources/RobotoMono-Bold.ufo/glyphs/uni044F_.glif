@@ -12,11 +12,8 @@
       <point x="361" y="0" type="line"/>
       <point x="77" y="0" type="line"/>
       <point x="317" y="426" type="line"/>
-      <point x="283" y="441"/>
-      <point x="224" y="481"/>
-      <point x="201" y="505" type="qcurve" smooth="yes"/>
-      <point x="159" y="548"/>
-      <point x="114" y="659"/>
+      <point x="221.52029728313707" y="468.1233982574396"/>
+      <point x="114.0" y="623.6062049125173"/>
       <point x="114" y="723" type="qcurve" smooth="yes"/>
       <point x="114" y="801"/>
       <point x="177" y="932"/>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek.smcp" format="2">
+  <advance width="1229"/>
+  <outline>
+    <contour>
+      <point x="696" y="1165" type="line"/>
+      <point x="1166" y="0" type="line"/>
+      <point x="1131" y="0" type="line"/>
+      <point x="1095" y="-19"/>
+      <point x="1035" y="-64"/>
+      <point x="1013" y="-89" type="qcurve" smooth="yes"/>
+      <point x="987" y="-118"/>
+      <point x="959" y="-183"/>
+      <point x="959" y="-219" type="qcurve" smooth="yes"/>
+      <point x="959" y="-253"/>
+      <point x="995" y="-294"/>
+      <point x="1037" y="-294" type="qcurve" smooth="yes"/>
+      <point x="1069" y="-295"/>
+      <point x="1122" y="-276"/>
+      <point x="1138" y="-268" type="qcurve"/>
+      <point x="1169" y="-389" type="line"/>
+      <point x="1141" y="-405"/>
+      <point x="1056" y="-433"/>
+      <point x="991" y="-433" type="qcurve" smooth="yes"/>
+      <point x="950" y="-433"/>
+      <point x="880" y="-409"/>
+      <point x="854" y="-385" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="828" y="-361"/>
+      <point x="798" y="-290"/>
+      <point x="798" y="-243" type="qcurve" smooth="yes"/>
+      <point x="798" y="-199"/>
+      <point x="836" y="-112"/>
+      <point x="871" y="-72" type="qcurve" smooth="yes"/>
+      <point x="892" y="-49"/>
+      <point x="943" y="-5"/>
+      <point x="973" y="15" type="qcurve"/>
+      <point x="870" y="279" type="line"/>
+      <point x="352" y="279" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="531" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="430" type="line"/>
+      <point x="811" y="430" type="line"/>
+      <point x="636" y="876" type="line"/>
+      <point x="612" y="937" type="line"/>
+      <point x="588" y="877" type="line"/>
+    </contour>
+  </outline>
+</glyph>
