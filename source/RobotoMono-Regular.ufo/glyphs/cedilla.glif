@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="1229"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="630" y="0" type="line"/>
+      <point x="618" y="-52" type="line"/>
+      <point x="647" y="-57"/>
+      <point x="702" y="-81"/>
+      <point x="724" y="-101" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="745" y="-121"/>
+      <point x="771" y="-182"/>
+      <point x="771" y="-225" type="qcurve" smooth="yes"/>
+      <point x="771" y="-281"/>
+      <point x="717" y="-367"/>
+      <point x="667" y="-394" type="qcurve" smooth="yes"/>
+      <point x="630" y="-413"/>
+      <point x="529" y="-435"/>
+      <point x="468" y="-435" type="qcurve"/>
+      <point x="461" y="-328" type="line"/>
+      <point x="495" y="-328"/>
+      <point x="555" y="-317"/>
+      <point x="578" y="-305" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="600" y="-293"/>
+      <point x="627" y="-256"/>
+      <point x="627" y="-229" type="qcurve" smooth="yes"/>
+      <point x="627" y="-204"/>
+      <point x="607" y="-170"/>
+      <point x="587" y="-159" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="566" y="-149"/>
+      <point x="506" y="-137"/>
+      <point x="466" y="-134" type="qcurve"/>
+      <point x="497" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

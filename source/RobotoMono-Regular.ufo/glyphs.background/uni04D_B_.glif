@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04DB" format="2">
+  <advance width="500"/>
+  <unicode hex="04DB"/>
+  <outline>
+    <component base="schwa"/>
+    <component base="dieresis" xOffset="40" yOffset="26"/>
+  </outline>
+</glyph>
