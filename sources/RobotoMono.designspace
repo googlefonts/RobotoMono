@@ -10,12 +10,12 @@
     </axis>
   </axes>
   <sources>
-    <source filename="RobotoMono-Thin.ufo" familyname="RobotoMono" stylename="Thin">
+    <source filename="RobotoMono-Thin.ufo" familyname="Roboto Mono" stylename="Thin">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
     </source>
-    <source filename="RobotoMono-Regular.ufo" familyname="RobotoMono" stylename="Regular">
+    <source filename="RobotoMono-Regular.ufo" familyname="Roboto Mono" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -24,42 +24,42 @@
         <dimension name="Weight" xvalue="50"/>
       </location>
     </source>
-    <source filename="RobotoMono-Bold.ufo" familyname="RobotoMono" stylename="Bold">
+    <source filename="RobotoMono-Bold.ufo" familyname="Roboto Mono" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="RobotoMono" stylename="Thin" filename="instances/RobotoMono-Thin.ufo" postscriptfontname="RobotoMono-Thin">
+    <instance familyname="Roboto Mono" stylename="Thin" filename="instances/RobotoMono-Thin.ufo" postscriptfontname="RobotoMono-Thin">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="RobotoMono" stylename="Light" filename="instances/RobotoMono-Light.ufo" postscriptfontname="RobotoMono-Light">
+    <instance familyname="Roboto Mono" stylename="Light" filename="instances/RobotoMono-Light.ufo" postscriptfontname="RobotoMono-Light">
       <location>
         <dimension name="Weight" xvalue="25"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="RobotoMono" stylename="Regular" filename="instances/RobotoMono-Regular.ufo" postscriptfontname="RobotoMono-Regular">
+    <instance familyname="Roboto Mono" stylename="Regular" filename="instances/RobotoMono-Regular.ufo" postscriptfontname="RobotoMono-Regular">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="RobotoMono" stylename="Medium" filename="instances/RobotoMono-Medium.ufo" postscriptfontname="RobotoMono-Medium">
+    <instance familyname="Roboto Mono" stylename="Medium" filename="instances/RobotoMono-Medium.ufo" postscriptfontname="RobotoMono-Medium">
       <location>
         <dimension name="Weight" xvalue="79"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="RobotoMono" stylename="Bold" filename="instances/RobotoMono-Bold.ufo" postscriptfontname="RobotoMono-Bold">
+    <instance familyname="Roboto Mono" stylename="Bold" filename="instances/RobotoMono-Bold.ufo" postscriptfontname="RobotoMono-Bold">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
