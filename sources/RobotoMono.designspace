@@ -22,9 +22,16 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="RobotoMono" stylename="Medium" filename="instances/RobotoMono-Medium.ufo" postscriptfontname="RobotoMono-Medium">
+    <instance familyname="RobotoMono" stylename="Thin" filename="instances/RobotoMono-Thin.ufo" postscriptfontname="RobotoMono-Thin">
       <location>
-        <dimension name="Weight" xvalue="79"/>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoMono" stylename="Light" filename="instances/RobotoMono-Light.ufo" postscriptfontname="RobotoMono-Light">
+      <location>
+        <dimension name="Weight" xvalue="25"/>
       </location>
       <kerning/>
       <info/>
@@ -36,9 +43,16 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="RobotoMono" stylename="Light" filename="instances/RobotoMono-Light.ufo" postscriptfontname="RobotoMono-Light">
+    <instance familyname="RobotoMono" stylename="Medium" filename="instances/RobotoMono-Medium.ufo" postscriptfontname="RobotoMono-Medium">
       <location>
-        <dimension name="Weight" xvalue="25"/>
+        <dimension name="Weight" xvalue="79"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="RobotoMono" stylename="Bold" filename="instances/RobotoMono-Bold.ufo" postscriptfontname="RobotoMono-Bold">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
       </location>
       <kerning/>
       <info/>
