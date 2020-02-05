@@ -23,6 +23,9 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
+	echo "TTF AH"
+	python3 -m ttfautohint --stem-width-mode nnn $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
 done
 
 vfs=$(ls ../fonts/vf/*\[wght\].ttf)
@@ -56,11 +59,6 @@ do
 	gftools fix-nonhinting $vf $vf.fix;
 	mv "$vf.fix" $vf;
 done
-for ttf in $ttfs
-do
-	gftools fix-nonhinting $ttf $ttf.fix;
-	mv "$ttf.fix" $ttf;
-done
 
-rm ../fonts/ttf/*gasp.ttf ../fonts/vf/*gasp.ttf
+rm  ../fonts/vf/*gasp.ttf
 
