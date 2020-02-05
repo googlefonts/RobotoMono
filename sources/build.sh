@@ -9,8 +9,7 @@ echo $(pwd)
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
-fontmake -m RobotoMono.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m RobotoMono.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake --keep-overlaps -m RobotoMono.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
