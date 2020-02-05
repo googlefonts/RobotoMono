@@ -66,10 +66,6 @@
     <string>Roboto Mono</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Thin</string>
-    <key>openTypeNameUniqueID</key>
-    <string>Google:Roboto Mono:2015</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 2.000985; 2015; ttfautohint (v1.3)</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
