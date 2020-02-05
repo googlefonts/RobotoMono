@@ -15,7 +15,7 @@ echo "Generating VFs"
 mkdir -p ../fonts/vf
 fontmake -m RobotoMono.designspace -o variable --output-path ../fonts/vf/RobotoMono[wght].ttf
 
-rm -rf master_ufo/ instance_ufo/ instance_ufos/
+rm -rf master_ufo/ instance_ufo/ instance_ufos/ instances/
 
 
 echo "Post processing"
