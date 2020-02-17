@@ -37,6 +37,12 @@ do
 done
 
 
+echo "Fixing VF monospace metadata"
+for vf in $vfs
+do
+	gftools fix-isfixedpitch --fonts $vf;
+	mv "$vf.fix" $vf;
+done
 
 echo "Fixing VF Meta"
 gftools fix-vf-meta $vfs;
