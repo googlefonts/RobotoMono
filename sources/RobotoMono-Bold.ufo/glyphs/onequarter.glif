@@ -3,8 +3,34 @@
   <advance width="1229"/>
   <unicode hex="00BC"/>
   <outline>
-    <component base="one.sup" xScale="0.9" yScale="0.9" xOffset="-255" yOffset="751"/>
+    <contour>
+      <point x="416.4" y="751.0" type="line"/>
+      <point x="237.3" y="751.0" type="line"/>
+      <point x="237.3" y="1248.7" type="line"/>
+      <point x="65.40000000000003" y="1210.0" type="line"/>
+      <point x="65.40000000000003" y="1350.4" type="line"/>
+      <point x="399.30000000000007" y="1458.4" type="line"/>
+      <point x="416.4" y="1458.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1087.9" y="290.7" type="line"/>
+      <point x="1169.8000000000002" y="290.7" type="line"/>
+      <point x="1169.8000000000002" y="144.0" type="line"/>
+      <point x="1087.9" y="144.0" type="line"/>
+      <point x="1087.9" y="0.0" type="line"/>
+      <point x="906.1" y="0.0" type="line"/>
+      <point x="906.1" y="144.0" type="line"/>
+      <point x="594.7" y="144.0" type="line"/>
+      <point x="584.8" y="261.90000000000003" type="line"/>
+      <point x="907.0" y="710.1" type="line"/>
+      <point x="1087.9" y="710.1" type="line"/>
+    </contour>
+    <contour>
+      <point x="757.6" y="290.7" type="line"/>
+      <point x="906.1" y="290.7" type="line"/>
+      <point x="906.1" y="484.2" type="line"/>
+      <point x="895.3000000000001" y="467.1" type="line"/>
+    </contour>
     <component base="fraction" xOffset="14" yOffset="8"/>
-    <component base="four.sup" xScale="0.9" yScale="0.9" xOffset="322"/>
   </outline>
 </glyph>
