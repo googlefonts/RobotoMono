@@ -3,6 +3,11 @@
   <advance width="1202"/>
   <unicode hex="2013"/>
   <outline>
-    <component base="minus" xScale="1.3" xOffset="-142"/>
+    <contour>
+      <point x="1135.9" y="651" type="line"/>
+      <point x="81.6" y="651" type="line"/>
+      <point x="116.69999999999999" y="802" type="line"/>
+      <point x="1171.0" y="802" type="line"/>
+    </contour>
   </outline>
 </glyph>

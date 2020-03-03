@@ -14,6 +14,7 @@
     <string>Roboto Mono</string>
     <key>guidelines</key>
     <array/>
+    <key>italicAngle</key>
     <real>0.0</real>
     <key>openTypeHeadCreated</key>
     <string>2008/09/12 12:29:34</string>
