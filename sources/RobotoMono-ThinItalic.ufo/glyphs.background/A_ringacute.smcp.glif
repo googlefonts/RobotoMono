@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="A.smcp"/>
+    <component base="ringacute" xOffset="-93" yOffset="-69"/>
+    <component base="A.smcp"/>
+    <component base="ringacute" xOffset="-93" yOffset="-69"/>
+    <component base="A.smcp"/>
+    <component base="ringacute" xOffset="-93" yOffset="-69"/>
+  </outline>
+</glyph>

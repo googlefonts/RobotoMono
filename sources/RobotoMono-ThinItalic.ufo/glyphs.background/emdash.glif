@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="500"/>
+  <unicode hex="2014"/>
+  <outline>
+    <component base="minus" xScale="1.3" xOffset="-126"/>
+    <component base="minus" xScale="1.3" xOffset="-126"/>
+    <component base="minus" xScale="1.3" xOffset="-126"/>
+  </outline>
+</glyph>

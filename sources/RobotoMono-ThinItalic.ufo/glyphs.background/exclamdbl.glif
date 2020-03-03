@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdbl" format="2">
+  <advance width="500"/>
+  <unicode hex="203C"/>
+  <outline>
+    <component base="exclam"/>
+    <component base="exclam" xOffset="1202"/>
+    <component base="exclam"/>
+    <component base="exclam" xOffset="1202"/>
+    <component base="exclam"/>
+    <component base="exclam" xOffset="1202"/>
+  </outline>
+</glyph>

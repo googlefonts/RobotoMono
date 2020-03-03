@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="E.smcp"/>
+    <component base="caron" xOffset="5" yOffset="42"/>
+    <component base="E.smcp"/>
+    <component base="caron" xOffset="5" yOffset="42"/>
+    <component base="E.smcp"/>
+    <component base="caron" xOffset="5" yOffset="42"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ED8" format="2">
+  <advance width="500"/>
+  <unicode hex="1ED8"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflex" xOffset="46" yOffset="340"/>
+    <component base="dotbelow" xOffset="1330" yOffset="-1"/>
+    <component base="O"/>
+    <component base="circumflex" xOffset="46" yOffset="340"/>
+    <component base="dotbelow" xOffset="1330" yOffset="-1"/>
+    <component base="O"/>
+    <component base="circumflex" xOffset="46" yOffset="340"/>
+    <component base="dotbelow" xOffset="1330" yOffset="-1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egrave" format="2">
+  <advance width="500"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="-50" yOffset="-1"/>
+    <component base="e"/>
+    <component base="grave" xOffset="-50" yOffset="-1"/>
+    <component base="e"/>
+    <component base="grave" xOffset="-50" yOffset="-1"/>
+  </outline>
+</glyph>

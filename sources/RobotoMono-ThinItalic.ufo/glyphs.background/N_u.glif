@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nu" format="2">
+  <advance width="500"/>
+  <unicode hex="039D"/>
+  <outline>
+    <component base="N"/>
+    <component base="N"/>
+    <component base="N"/>
+  </outline>
+</glyph>

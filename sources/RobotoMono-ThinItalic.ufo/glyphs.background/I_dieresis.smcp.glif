@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="I.smcp"/>
+    <component base="dieresis" xOffset="6" yOffset="36"/>
+    <component base="I.smcp"/>
+    <component base="dieresis" xOffset="6" yOffset="36"/>
+    <component base="I.smcp"/>
+    <component base="dieresis" xOffset="6" yOffset="36"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni048B" format="2">
+  <advance width="500"/>
+  <unicode hex="048B"/>
+  <outline>
+    <component base="uni0438"/>
+    <component base="breve" xOffset="15" yOffset="-18"/>
+    <component base="comma" xOffset="492" yOffset="-24"/>
+    <component base="uni0438"/>
+    <component base="breve" xOffset="15" yOffset="-18"/>
+    <component base="comma" xOffset="492" yOffset="-24"/>
+    <component base="uni0438"/>
+    <component base="breve" xOffset="15" yOffset="-18"/>
+    <component base="comma" xOffset="492" yOffset="-24"/>
+  </outline>
+</glyph>

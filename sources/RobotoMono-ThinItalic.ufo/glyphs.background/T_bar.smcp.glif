@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="T.smcp"/>
+    <component base="crossbar" xOffset="-42" yOffset="-45"/>
+    <component base="T.smcp"/>
+    <component base="crossbar" xOffset="-42" yOffset="-45"/>
+    <component base="T.smcp"/>
+    <component base="crossbar" xOffset="-42" yOffset="-45"/>
+  </outline>
+</glyph>

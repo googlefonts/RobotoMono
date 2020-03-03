@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn" format="2">
+  <advance width="500"/>
+  <unicode hex="01B0"/>
+  <outline>
+    <contour>
+      <point x="780" y="149" type="line"/>
+      <point x="716" y="70"/>
+      <point x="550" y="-22"/>
+      <point x="445" y="-20" type="qcurve" smooth="yes"/>
+      <point x="348" y="-18"/>
+      <point x="225" y="63"/>
+      <point x="191.5" y="128.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="158" y="193"/>
+      <point x="141" y="356"/>
+      <point x="150" y="439" type="qcurve"/>
+      <point x="258" y="1082" type="line"/>
+      <point x="439" y="1082" type="line"/>
+      <point x="332" y="436" type="line" smooth="yes"/>
+      <point x="326" y="386"/>
+      <point x="324" y="281"/>
+      <point x="338.5" y="238.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="353" y="195"/>
+      <point x="421" y="139"/>
+      <point x="484" y="137" type="qcurve" smooth="yes"/>
+      <point x="584" y="134"/>
+      <point x="738" y="223"/>
+      <point x="791" y="305" type="qcurve"/>
+      <point x="926" y="1082" type="line"/>
+      <point x="1108" y="1082" type="line"/>
+      <point x="1084" y="943" type="line"/>
+      <point x="1155" y="965"/>
+      <point x="1222" y="1082"/>
+      <point x="1236" y="1171" type="qcurve"/>
+      <point x="1396" y="1172" type="line"/>
+      <point x="1379" y="1002"/>
+      <point x="1211" y="820"/>
+      <point x="1059" y="800" type="qcurve"/>
+      <point x="920" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

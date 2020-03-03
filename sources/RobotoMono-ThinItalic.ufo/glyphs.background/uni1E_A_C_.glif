@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EAC" format="2">
+  <advance width="500"/>
+  <unicode hex="1EAC"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflex" xOffset="51" yOffset="319"/>
+    <component base="dotbelow" xOffset="1339"/>
+    <component base="A"/>
+    <component base="circumflex" xOffset="51" yOffset="319"/>
+    <component base="dotbelow" xOffset="1339"/>
+    <component base="A"/>
+    <component base="circumflex" xOffset="51" yOffset="319"/>
+    <component base="dotbelow" xOffset="1339"/>
+  </outline>
+</glyph>

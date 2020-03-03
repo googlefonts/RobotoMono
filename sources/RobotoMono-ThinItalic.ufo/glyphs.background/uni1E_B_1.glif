@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EB1" format="2">
+  <advance width="500"/>
+  <unicode hex="1EB1"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevegravecomb" xOffset="23" yOffset="58"/>
+    <component base="a"/>
+    <component base="brevegravecomb" xOffset="23" yOffset="58"/>
+    <component base="a"/>
+    <component base="brevegravecomb" xOffset="23" yOffset="58"/>
+  </outline>
+</glyph>

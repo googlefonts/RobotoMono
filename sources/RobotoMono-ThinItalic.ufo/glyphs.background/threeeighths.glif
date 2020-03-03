@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance width="500"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="three.sup" xScale="0.9" yScale="0.9" xOffset="-87" yOffset="746"/>
+    <component base="fraction" xOffset="35" yOffset="-9"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="393"/>
+    <component base="three.sup" xScale="0.9" yScale="0.9" xOffset="-87" yOffset="746"/>
+    <component base="fraction" xOffset="35" yOffset="-9"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="393"/>
+    <component base="three.sup" xScale="0.9" yScale="0.9" xOffset="-87" yOffset="746"/>
+    <component base="fraction" xOffset="35" yOffset="-9"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="393"/>
+  </outline>
+</glyph>

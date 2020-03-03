@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance width="500"/>
+  <unicode hex="0393"/>
+  <outline>
+    <contour>
+      <point x="1162" y="1304" type="line"/>
+      <point x="479" y="1304" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="324" y="1456" type="line"/>
+      <point x="1189" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

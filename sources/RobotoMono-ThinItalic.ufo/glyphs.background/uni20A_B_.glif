@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20AB" format="2">
+  <advance width="500"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <component base="d"/>
+    <component base="crossbar" xOffset="355" yOffset="560"/>
+    <component base="underscore" xOffset="-74" yOffset="-156"/>
+    <component base="d"/>
+    <component base="crossbar" xOffset="355" yOffset="560"/>
+    <component base="underscore" xOffset="-74" yOffset="-156"/>
+    <component base="d"/>
+    <component base="crossbar" xOffset="355" yOffset="560"/>
+    <component base="underscore" xOffset="-74" yOffset="-156"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubreve.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="U.smcp"/>
+    <component base="breve" xOffset="16" yOffset="32"/>
+    <component base="U.smcp"/>
+    <component base="breve" xOffset="16" yOffset="32"/>
+    <component base="U.smcp"/>
+    <component base="breve" xOffset="16" yOffset="32"/>
+  </outline>
+</glyph>
