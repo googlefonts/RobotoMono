@@ -34,11 +34,8 @@
       <point x="748" y="1412"/>
       <point x="807" y="1474"/>
       <point x="855" y="1476" type="qcurve" smooth="yes"/>
-      <point x="879" y="1477"/>
-      <point x="919" y="1462"/>
-      <point x="933.5" y="1447.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="948" y="1433"/>
-      <point x="964" y="1394"/>
+      <point x="902.9999999999999" y="1477.9999999999998"/>
+      <point x="964.0" y="1418.0000000000002"/>
       <point x="964" y="1370" type="qcurve"/>
       <point x="963" y="1322"/>
       <point x="903" y="1262"/>

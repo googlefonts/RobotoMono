@@ -51,20 +51,14 @@
     </contour>
     <contour>
       <point x="432" y="51" type="qcurve"/>
-      <point x="433" y="61"/>
-      <point x="446" y="81"/>
-      <point x="455.0" y="88.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="464" y="96"/>
-      <point x="485" y="105"/>
+      <point x="433.94686415294797" y="70.46864152948"/>
+      <point x="474" y="105.0"/>
       <point x="495" y="105" type="qcurve" smooth="yes"/>
-      <point x="517" y="104"/>
+      <point x="517" y="105"/>
       <point x="548" y="69"/>
       <point x="545" y="47" type="qcurve"/>
-      <point x="543" y="37"/>
-      <point x="531" y="18"/>
-      <point x="522.0" y="10.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="513" y="3"/>
-      <point x="491" y="-6"/>
+      <point x="541" y="26"/>
+      <point x="500.4686415294799" y="-6.0"/>
       <point x="481" y="-6" type="qcurve" smooth="yes"/>
       <point x="459" y="-5"/>
       <point x="428" y="29"/>

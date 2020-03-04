@@ -14,11 +14,8 @@
       <point x="837" y="1312"/>
       <point x="774" y="1250"/>
       <point x="726" y="1248" type="qcurve" smooth="yes"/>
-      <point x="702" y="1247"/>
-      <point x="661" y="1262"/>
-      <point x="646.0" y="1276.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="631" y="1291"/>
-      <point x="614" y="1331"/>
+      <point x="678.786210994325" y="1246.0327587914303"/>
+      <point x="614.0" y="1306.1871613953592"/>
     </contour>
   </outline>
 </glyph>

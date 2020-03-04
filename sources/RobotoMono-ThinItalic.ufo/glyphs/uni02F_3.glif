@@ -31,7 +31,7 @@
     </contour>
     <contour>
       <point x="391" y="-220" type="qcurve"/>
-      <point x="396" y="-243"/>
+      <point x="390" y="-244"/>
       <point x="415" y="-278"/>
       <point x="442" y="-278" type="qcurve" smooth="yes"/>
       <point x="454" y="-278"/>

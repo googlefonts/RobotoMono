@@ -31,21 +31,24 @@
     </contour>
     <contour>
       <point x="356" y="-236" type="qcurve"/>
-      <point x="360" y="-259"/>
+      <point x="354" y="-259"/>
       <point x="380" y="-297"/>
       <point x="409" y="-297" type="qcurve" smooth="yes"/>
       <point x="422" y="-297"/>
       <point x="447" y="-286"/>
-      <point x="457.0" y="-276.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="457" y="-276" type="qcurve" smooth="yes" name="inserted"/>
       <point x="467" y="-267"/>
       <point x="481" y="-243"/>
       <point x="483" y="-230" type="qcurve" smooth="yes"/>
-      <point x="486" y="-207"/>
-      <point x="459" y="-166"/>
+      <point x="485" y="-216"/>
+      <point x="476" y="-189"/>
+      <point x="467" y="-180" type="qcurve" smooth="yes"/>
+      <point x="461" y="-174"/>
+      <point x="444" y="-166"/>
       <point x="434" y="-166" type="qcurve" smooth="yes"/>
       <point x="418" y="-166"/>
       <point x="393" y="-178"/>
-      <point x="384.0" y="-188.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="384" y="-188" type="qcurve" smooth="yes" name="inserted"/>
       <point x="375" y="-198"/>
       <point x="361" y="-224"/>
     </contour>

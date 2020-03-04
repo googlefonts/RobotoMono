@@ -8,20 +8,14 @@
       <point x="-851" y="-189"/>
       <point x="-789" y="-124"/>
       <point x="-739" y="-122" type="qcurve" smooth="yes"/>
-      <point x="-715" y="-121"/>
-      <point x="-674" y="-137"/>
-      <point x="-659.0" y="-152.0" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="-644" y="-167"/>
-      <point x="-628" y="-208"/>
+      <point x="-691.0" y="-120.0"/>
+      <point x="-628.0" y="-184.0"/>
       <point x="-628" y="-232" type="qcurve"/>
       <point x="-629" y="-281"/>
       <point x="-692" y="-343"/>
       <point x="-740" y="-345" type="qcurve" smooth="yes"/>
-      <point x="-764" y="-346"/>
-      <point x="-805" y="-331"/>
-      <point x="-820.0" y="-316.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="-835" y="-302"/>
-      <point x="-852" y="-262"/>
+      <point x="-787.213789005675" y="-346.96724120856976"/>
+      <point x="-852.0" y="-286.81283860464083"/>
     </contour>
   </outline>
 </glyph>
