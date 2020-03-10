@@ -9,18 +9,16 @@
       <point x="653" y="1456" type="line"/>
       <point x="889" y="1456" type="line"/>
       <point x="792" y="936" type="line"/>
-      <point x="854" y="941"/>
-      <point x="949" y="904"/>
-      <point x="985.0" y="868.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="1021" y="833"/>
-      <point x="1069" y="737"/>
-      <point x="1082.5" y="684.5" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="1096" y="632"/>
-      <point x="1104" y="524"/>
+      <point x="809" y="937" type="line" smooth="yes"/>
+      <point x="893.5489477275252" y="941.6117607851378"/>
+      <point x="1011.6641792429989" y="851.6716415140024"/>
+      <point x="1046" y="783" type="qcurve" smooth="yes"/>
+      <point x="1083.2239818062142" y="711.6540348714223"/>
+      <point x="1105.9029509444133" y="546.3596735968565"/>
       <point x="1100" y="477" type="qcurve" smooth="yes"/>
       <point x="1092" y="385"/>
       <point x="1027" y="212"/>
-      <point x="971.0" y="145.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="971" y="145" type="qcurve" smooth="yes" name="inserted"/>
       <point x="915" y="78"/>
       <point x="757" y="-2"/>
       <point x="657" y="0" type="qcurve" smooth="yes"/>

@@ -34,37 +34,40 @@
       <point x="1141" y="1730" type="line"/>
       <point x="1137" y="1695"/>
       <point x="1113" y="1628"/>
-      <point x="1092.0" y="1602.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1092" y="1603" type="qcurve" smooth="yes" name="inserted"/>
       <point x="1071" y="1577"/>
       <point x="1011" y="1545"/>
       <point x="972" y="1545" type="qcurve" smooth="yes"/>
       <point x="941" y="1545"/>
       <point x="887" y="1568"/>
-      <point x="860.5" y="1582.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="861" y="1582" type="qcurve" smooth="yes" name="inserted"/>
       <point x="834" y="1596"/>
       <point x="781" y="1618"/>
       <point x="751" y="1617" type="qcurve" smooth="yes"/>
       <point x="733" y="1616"/>
       <point x="705" y="1600"/>
-      <point x="695.0" y="1588.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="695" y="1588" type="qcurve" smooth="yes" name="inserted"/>
       <point x="685" y="1576"/>
       <point x="670" y="1546"/>
       <point x="665" y="1530" type="qcurve"/>
       <point x="551" y="1562" type="line"/>
       <point x="555" y="1596"/>
       <point x="581" y="1663"/>
-      <point x="602.5" y="1689.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="603" y="1689" type="qcurve" smooth="yes" name="inserted"/>
       <point x="624" y="1715"/>
       <point x="684" y="1747"/>
       <point x="723" y="1747" type="qcurve" smooth="yes"/>
       <point x="753" y="1747"/>
       <point x="808" y="1723"/>
-      <point x="835.0" y="1708.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="835" y="1709" type="qcurve" smooth="yes" name="inserted"/>
       <point x="862" y="1694"/>
       <point x="916" y="1672"/>
       <point x="946" y="1674" type="qcurve" smooth="yes"/>
-      <point x="983" y="1677"/>
-      <point x="1021" y="1730"/>
+      <point x="964" y="1675"/>
+      <point x="992" y="1691"/>
+      <point x="1002" y="1703" type="qcurve" smooth="yes"/>
+      <point x="1012" y="1715"/>
+      <point x="1026" y="1745"/>
       <point x="1032" y="1761" type="qcurve"/>
     </contour>
   </outline>

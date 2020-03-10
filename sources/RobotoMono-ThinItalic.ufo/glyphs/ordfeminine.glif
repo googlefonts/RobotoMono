@@ -50,8 +50,10 @@
       <point x="950" y="1355"/>
       <point x="969" y="1255"/>
       <point x="962" y="1200" type="qcurve" smooth="yes"/>
-      <point x="908" y="886" type="line" smooth="yes"/>
-      <point x="900.5" y="841.5" name="inserted"/>
+      <point x="944" y="1095"/>
+      <point x="926" y="991"/>
+      <point x="908" y="886" type="qcurve" smooth="yes"/>
+      <point x="901" y="842" name="inserted"/>
       <point x="898.5" y="751.0"/>
       <point x="904" y="705" type="qcurve"/>
     </contour>

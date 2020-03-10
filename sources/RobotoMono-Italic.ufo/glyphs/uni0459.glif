@@ -52,12 +52,15 @@
       <point x="731" y="147" type="line" smooth="yes"/>
       <point x="774" y="148"/>
       <point x="846" y="180"/>
-      <point x="872.5" y="207.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="873" y="207" type="qcurve" smooth="yes" name="inserted"/>
       <point x="899" y="234"/>
       <point x="932" y="305"/>
       <point x="937" y="347" type="qcurve" smooth="yes"/>
-      <point x="946" y="417"/>
-      <point x="887" y="512"/>
+      <point x="941" y="380"/>
+      <point x="933" y="437"/>
+      <point x="921" y="458" type="qcurve" smooth="yes"/>
+      <point x="906" y="483"/>
+      <point x="853" y="514"/>
       <point x="813" y="517" type="qcurve" smooth="yes"/>
     </contour>
   </outline>

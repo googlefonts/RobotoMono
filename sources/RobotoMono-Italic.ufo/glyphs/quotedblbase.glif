@@ -17,8 +17,11 @@
     </contour>
     <contour>
       <point x="758" y="76" type="line" smooth="yes"/>
-      <point x="740" y="-38"/>
-      <point x="620" y="-233"/>
+      <point x="750" y="22"/>
+      <point x="713" y="-79"/>
+      <point x="687" y="-125" type="qcurve" smooth="yes"/>
+      <point x="657" y="-176"/>
+      <point x="578" y="-267"/>
       <point x="531" y="-305" type="qcurve"/>
       <point x="432" y="-230" type="line"/>
       <point x="485" y="-161"/>

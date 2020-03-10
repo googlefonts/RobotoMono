@@ -20,7 +20,9 @@
     <contour>
       <point x="420" y="601" type="line"/>
       <point x="795" y="601" type="line"/>
+      <point x="731" y="1048" type="line"/>
       <point x="711" y="1186" type="line"/>
+      <point x="642" y="1048" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -12,7 +12,9 @@
     <contour>
       <point x="204" y="151" type="line"/>
       <point x="863" y="151" type="line"/>
+      <point x="747" y="1063" type="line"/>
       <point x="730" y="1200" type="line"/>
+      <point x="662" y="1063" type="line"/>
     </contour>
   </outline>
 </glyph>

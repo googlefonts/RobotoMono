@@ -13,46 +13,49 @@
       <point x="489.0" y="1458.9" type="line"/>
     </contour>
     <contour>
-      <point x="1028.2" y="0.0" type="line"/>
-      <point x="553.0" y="0.0" type="line"/>
-      <point x="559.3" y="39.6" type="line"/>
-      <point x="855.4" y="305.1" type="line" smooth="yes"/>
-      <point x="880.6" y="327.6"/>
-      <point x="936.4" y="375.3"/>
-      <point x="961.15" y="402.3" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="985.9" y="429.3"/>
-      <point x="1022.8000000000001" y="489.6"/>
-      <point x="1030.0" y="524.7" type="qcurve" smooth="yes"/>
-      <point x="1037.2" y="559.8000000000001"/>
-      <point x="1020.1" y="615.6"/>
-      <point x="1000.75" y="634.95" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="981.4" y="654.3000000000001"/>
-      <point x="923.8000000000001" y="675.9"/>
-      <point x="890.5" y="675.9" type="qcurve" smooth="yes"/>
-      <point x="807.7" y="675.9"/>
-      <point x="694.3" y="582.3000000000001"/>
-      <point x="670.0" y="506.7" type="qcurve"/>
-      <point x="620.5" y="506.7" type="line"/>
-      <point x="633.1" y="553.5"/>
-      <point x="682.6" y="631.8000000000001"/>
-      <point x="717.7" y="660.15" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="752.8" y="688.5"/>
-      <point x="840.1" y="720.0"/>
-      <point x="889.6" y="720.0" type="qcurve" smooth="yes"/>
-      <point x="931.9" y="720.0"/>
-      <point x="1006.6" y="693.0"/>
-      <point x="1033.6" y="667.8000000000001" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="1060.6" y="642.6"/>
-      <point x="1085.8000000000002" y="570.6"/>
-      <point x="1078.6" y="525.6" type="qcurve" smooth="yes"/>
-      <point x="1071.4" y="485.1"/>
-      <point x="1030.0" y="413.1"/>
-      <point x="1001.65" y="381.15000000000003" type="qcurve" smooth="yes" name="inserted"/>
-      <point x="973.3000000000001" y="349.2"/>
-      <point x="909.4" y="292.5"/>
-      <point x="880.6" y="267.3" type="qcurve" smooth="yes"/>
-      <point x="622.3" y="44.1" type="line"/>
-      <point x="1034.5" y="44.1" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="559" y="40" type="line"/>
+      <point x="855" y="305" type="line" smooth="yes"/>
+      <point x="881" y="328"/>
+      <point x="936" y="375"/>
+      <point x="961" y="402" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="986" y="429"/>
+      <point x="1023" y="490"/>
+      <point x="1030" y="525" type="qcurve" smooth="yes"/>
+      <point x="1037" y="560"/>
+      <point x="1020" y="616"/>
+      <point x="1001" y="635" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="981" y="654"/>
+      <point x="924" y="676"/>
+      <point x="891" y="676" type="qcurve" smooth="yes"/>
+      <point x="847" y="676"/>
+      <point x="774" y="649"/>
+      <point x="745" y="625" type="qcurve" smooth="yes"/>
+      <point x="720" y="603"/>
+      <point x="682" y="543"/>
+      <point x="670" y="507" type="qcurve"/>
+      <point x="621" y="507" type="line"/>
+      <point x="633" y="554"/>
+      <point x="683" y="632"/>
+      <point x="718" y="660" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="753" y="689"/>
+      <point x="840" y="720"/>
+      <point x="890" y="720" type="qcurve" smooth="yes"/>
+      <point x="932" y="720"/>
+      <point x="1007" y="693"/>
+      <point x="1034" y="668" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1061" y="643"/>
+      <point x="1086" y="571"/>
+      <point x="1079" y="526" type="qcurve" smooth="yes"/>
+      <point x="1071" y="485"/>
+      <point x="1030" y="413"/>
+      <point x="1002" y="381" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="973" y="349"/>
+      <point x="909" y="293"/>
+      <point x="881" y="267" type="qcurve" smooth="yes"/>
+      <point x="622" y="44" type="line"/>
+      <point x="1035" y="44" type="line"/>
     </contour>
     <component base="fraction" xOffset="-58" yOffset="8"/>
   </outline>

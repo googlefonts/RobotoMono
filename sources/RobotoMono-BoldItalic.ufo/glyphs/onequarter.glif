@@ -22,9 +22,8 @@
       <point x="809.7" y="144.0" type="line"/>
       <point x="508.20000000000005" y="144.0" type="line"/>
       <point x="519.9" y="272.7" type="line"/>
-      <point x="900.6" y="708.3000000000001" type="line"/>
       <point x="900.6" y="712.8000000000001" type="line"/>
-      <point x="1079.7" y="710.1" type="line"/>
+      <point x="1080" y="710" type="line"/>
     </contour>
     <contour>
       <point x="699.9000000000001" y="290.7" type="line"/>
