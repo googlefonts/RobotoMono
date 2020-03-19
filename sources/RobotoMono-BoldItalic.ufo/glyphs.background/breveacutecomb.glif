@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacutecomb" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="1098" y="1457" type="line"/>
+      <point x="1093" y="1391"/>
+      <point x="1027" y="1302"/>
+      <point x="977.5" y="1274.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="928" y="1247"/>
+      <point x="809" y="1224"/>
+      <point x="752" y="1225" type="qcurve" smooth="yes"/>
+      <point x="696" y="1226"/>
+      <point x="585" y="1251"/>
+      <point x="540.0" y="1278.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="495" y="1306"/>
+      <point x="438" y="1394"/>
+      <point x="437" y="1458" type="qcurve"/>
+      <point x="618" y="1456" type="line"/>
+      <point x="617" y="1426"/>
+      <point x="635" y="1384"/>
+      <point x="652.5" y="1370.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="670" y="1357"/>
+      <point x="718" y="1344"/>
+      <point x="747" y="1344" type="qcurve" smooth="yes"/>
+      <point x="806" y="1343"/>
+      <point x="899" y="1395"/>
+      <point x="914" y="1456" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="840" y="1649" type="line"/>
+      <point x="1050" y="1648" type="line"/>
+      <point x="849" y="1462" type="line"/>
+      <point x="688" y="1462" type="line"/>
+    </contour>
+  </outline>
+</glyph>

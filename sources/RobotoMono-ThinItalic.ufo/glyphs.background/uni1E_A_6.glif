@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EA6" format="2">
+  <advance width="500"/>
+  <unicode hex="1EA6"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexgravecomb" xOffset="71" yOffset="321"/>
+    <component base="A"/>
+    <component base="circumflexgravecomb" xOffset="71" yOffset="321"/>
+    <component base="A"/>
+    <component base="circumflexgravecomb" xOffset="71" yOffset="321"/>
+  </outline>
+</glyph>

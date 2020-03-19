@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Agrave.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="A.smcp"/>
+    <component base="grave" xOffset="-91" yOffset="27"/>
+    <component base="A.smcp"/>
+    <component base="grave" xOffset="-91" yOffset="27"/>
+    <component base="A.smcp"/>
+    <component base="grave" xOffset="-91" yOffset="27"/>
+  </outline>
+</glyph>

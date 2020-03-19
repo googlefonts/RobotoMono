@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni040D" format="2">
+  <advance width="500"/>
+  <unicode hex="040D"/>
+  <outline>
+    <component base="uni0418"/>
+    <component base="grave" xOffset="-22" yOffset="319"/>
+    <component base="uni0418"/>
+    <component base="grave" xOffset="-22" yOffset="319"/>
+    <component base="uni0418"/>
+    <component base="grave" xOffset="-22" yOffset="319"/>
+  </outline>
+</glyph>

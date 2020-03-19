@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.smcp" format="2">
+  <advance width="1202"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="250" y="1165" type="line"/>
+      <point x="672" y="1164" type="line" smooth="yes"/>
+      <point x="774" y="1161"/>
+      <point x="945" y="1081"/>
+      <point x="1004.5" y="1013.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1064" y="946"/>
+      <point x="1121" y="767"/>
+      <point x="1110" y="665" type="qcurve" smooth="yes"/>
+      <point x="1087" y="497" type="line" smooth="yes"/>
+      <point x="1072" y="390"/>
+      <point x="969" y="207"/>
+      <point x="892.0" y="140.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="815" y="74"/>
+      <point x="619" y="-1"/>
+      <point x="510" y="0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="482" y="942" type="line"/>
+      <point x="357" y="221" type="line"/>
+      <point x="521" y="219" type="line" smooth="yes"/>
+      <point x="582" y="219"/>
+      <point x="682" y="263"/>
+      <point x="719.5" y="300.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="757" y="338"/>
+      <point x="805" y="439"/>
+      <point x="814" y="497" type="qcurve" smooth="yes"/>
+      <point x="839" y="667" type="line" smooth="yes"/>
+      <point x="845" y="716"/>
+      <point x="833" y="811"/>
+      <point x="812.5" y="849.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="792" y="888"/>
+      <point x="718" y="937"/>
+      <point x="662" y="940" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

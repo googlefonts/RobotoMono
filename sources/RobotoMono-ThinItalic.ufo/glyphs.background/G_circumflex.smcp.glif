@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="G.smcp"/>
+    <component base="circumflex" xOffset="-37" yOffset="27"/>
+    <component base="G.smcp"/>
+    <component base="circumflex" xOffset="-37" yOffset="27"/>
+    <component base="G.smcp"/>
+    <component base="circumflex" xOffset="-37" yOffset="27"/>
+  </outline>
+</glyph>

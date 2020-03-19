@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="E.smcp"/>
+    <component base="breve" xOffset="15" yOffset="32"/>
+    <component base="E.smcp"/>
+    <component base="breve" xOffset="15" yOffset="32"/>
+    <component base="E.smcp"/>
+    <component base="breve" xOffset="15" yOffset="32"/>
+  </outline>
+</glyph>

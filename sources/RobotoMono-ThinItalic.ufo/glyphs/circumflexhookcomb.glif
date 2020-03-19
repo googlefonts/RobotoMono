@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhookcomb" format="2">
+  <advance width="1202"/>
+  <outline>
+    <contour>
+      <point x="990" y="1251" type="line"/>
+      <point x="906" y="1252" type="line"/>
+      <point x="726" y="1437" type="line"/>
+      <point x="484" y="1253" type="line"/>
+      <point x="391" y="1253" type="line"/>
+      <point x="685" y="1475" type="line"/>
+      <point x="766" y="1475" type="line"/>
+    </contour>
+    <contour>
+      <point x="1005" y="1368" type="line"/>
+      <point x="1020" y="1461" type="line"/>
+      <point x="1042" y="1463"/>
+      <point x="1097" y="1468"/>
+      <point x="1122.5" y="1476.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1148" y="1484"/>
+      <point x="1186" y="1515"/>
+      <point x="1191" y="1543" type="qcurve" smooth="yes"/>
+      <point x="1196" y="1575"/>
+      <point x="1157" y="1610"/>
+      <point x="1127.0" y="1617.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1097" y="1625"/>
+      <point x="1032" y="1628"/>
+      <point x="1012" y="1629" type="qcurve"/>
+      <point x="1025" y="1683" type="line"/>
+      <point x="1056" y="1682"/>
+      <point x="1139" y="1673"/>
+      <point x="1175.5" y="1659.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1212" y="1645"/>
+      <point x="1258" y="1593"/>
+      <point x="1252" y="1548" type="qcurve" smooth="yes"/>
+      <point x="1247" y="1512"/>
+      <point x="1209" y="1465"/>
+      <point x="1182.0" y="1449.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="1155" y="1434"/>
+      <point x="1092" y="1417"/>
+      <point x="1061" y="1412" type="qcurve"/>
+      <point x="1053" y="1368" type="line"/>
+    </contour>
+  </outline>
+</glyph>

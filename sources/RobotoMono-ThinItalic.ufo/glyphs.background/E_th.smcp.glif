@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="D.smcp"/>
+    <component base="crossbar" xOffset="-333" yOffset="-155"/>
+    <component base="D.smcp"/>
+    <component base="crossbar" xOffset="-333" yOffset="-155"/>
+    <component base="D.smcp"/>
+    <component base="crossbar" xOffset="-333" yOffset="-155"/>
+  </outline>
+</glyph>

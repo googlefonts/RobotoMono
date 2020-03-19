@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04DE" format="2">
+  <advance width="500"/>
+  <unicode hex="04DE"/>
+  <outline>
+    <component base="uni0417"/>
+    <component base="dieresis" xOffset="66" yOffset="340"/>
+    <component base="uni0417"/>
+    <component base="dieresis" xOffset="66" yOffset="340"/>
+    <component base="uni0417"/>
+    <component base="dieresis" xOffset="66" yOffset="340"/>
+  </outline>
+</glyph>

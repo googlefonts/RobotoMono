@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillichook" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="748" y="245" type="line"/>
+      <point x="703" y="-39" type="line" smooth="yes"/>
+      <point x="691" y="-127"/>
+      <point x="628" y="-275"/>
+      <point x="575.5" y="-328.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="523" y="-382"/>
+      <point x="378" y="-441"/>
+      <point x="285" y="-440" type="qcurve" smooth="yes"/>
+      <point x="249.5" y="-439.5" name="inserted"/>
+      <point x="177.5" y="-429.5"/>
+      <point x="141" y="-420" type="qcurve"/>
+      <point x="180" y="-197" type="line"/>
+      <point x="203" y="-203"/>
+      <point x="251" y="-212"/>
+      <point x="275" y="-212" type="qcurve" smooth="yes"/>
+      <point x="312" y="-212"/>
+      <point x="366" y="-182"/>
+      <point x="384.5" y="-158.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="403" y="-134"/>
+      <point x="425" y="-72"/>
+      <point x="431" y="-40" type="qcurve" smooth="yes"/>
+      <point x="477" y="245" type="line"/>
+    </contour>
+  </outline>
+</glyph>

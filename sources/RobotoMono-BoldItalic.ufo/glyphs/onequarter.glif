@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="1202"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="440.9" y="751.0" type="line"/>
+      <point x="265.40000000000003" y="751.0" type="line"/>
+      <point x="350.90000000000003" y="1245.1" type="line"/>
+      <point x="177.2" y="1207.3" type="line"/>
+      <point x="203.3" y="1354.0" type="line"/>
+      <point x="535.4" y="1458.4" type="line"/>
+      <point x="557.0" y="1458.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1006.8000000000001" y="289.8" type="line"/>
+      <point x="1094.1" y="290.7" type="line"/>
+      <point x="1066.2" y="144.0" type="line"/>
+      <point x="987.9" y="144.0" type="line"/>
+      <point x="961.8000000000001" y="0.0" type="line"/>
+      <point x="784.5" y="0.0" type="line"/>
+      <point x="809.7" y="144.0" type="line"/>
+      <point x="508.20000000000005" y="144.0" type="line"/>
+      <point x="519.9" y="272.7" type="line"/>
+      <point x="900.6" y="712.8000000000001" type="line"/>
+      <point x="1080" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="699.9000000000001" y="290.7" type="line"/>
+      <point x="834.0" y="290.7" type="line"/>
+      <point x="876.3000000000001" y="486.90000000000003" type="line"/>
+      <point x="861.9" y="467.1" type="line"/>
+    </contour>
+    <component base="fraction" xOffset="15" yOffset="8"/>
+  </outline>
+</glyph>

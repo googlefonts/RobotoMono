@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneeighth" format="2">
+  <advance width="500"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="one.sup" xScale="0.9" yScale="0.9" xOffset="-159" yOffset="744"/>
+    <component base="fraction" xOffset="-70"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="316"/>
+    <component base="one.sup" xScale="0.9" yScale="0.9" xOffset="-159" yOffset="744"/>
+    <component base="fraction" xOffset="-70"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="316"/>
+    <component base="one.sup" xScale="0.9" yScale="0.9" xOffset="-159" yOffset="744"/>
+    <component base="fraction" xOffset="-70"/>
+    <component base="eight.sup" xScale="0.9" yScale="0.9" xOffset="316"/>
+  </outline>
+</glyph>

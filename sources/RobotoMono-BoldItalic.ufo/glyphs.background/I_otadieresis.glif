@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadieresis" format="2">
+  <advance width="500"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis" xOffset="26" yOffset="349"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve.smcp" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="grave" xOffset="-152" yOffset="43"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="500"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="590" y="1358" type="qcurve" smooth="yes"/>
+      <point x="590" y="1390"/>
+      <point x="612" y="1443"/>
+      <point x="631.5" y="1462.5" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="651" y="1482"/>
+      <point x="704" y="1504"/>
+      <point x="736" y="1504" type="qcurve" smooth="yes"/>
+      <point x="766" y="1505"/>
+      <point x="819" y="1486"/>
+      <point x="839.0" y="1468.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="859" y="1450"/>
+      <point x="882" y="1399"/>
+      <point x="882" y="1368" type="qcurve" smooth="yes"/>
+      <point x="882" y="1336"/>
+      <point x="860" y="1283"/>
+      <point x="840.5" y="1264.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="821" y="1245"/>
+      <point x="767" y="1223"/>
+      <point x="736" y="1223" type="qcurve" smooth="yes"/>
+      <point x="706" y="1222"/>
+      <point x="653" y="1241"/>
+      <point x="633.5" y="1259.0" type="qcurve" smooth="yes" name="inserted"/>
+      <point x="614" y="1277"/>
+      <point x="590" y="1327"/>
+    </contour>
+  </outline>
+</glyph>

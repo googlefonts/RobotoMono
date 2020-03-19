@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis.smcp" format="2">
+  <advance width="1202"/>
+  <outline>
+    <component base="E.smcp"/>
+    <component base="dieresis" xOffset="-32" yOffset="32"/>
+  </outline>
+</glyph>
