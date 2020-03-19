@@ -1,14 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="700" default="400">
-      <labelname xml:lang="en">Weight</labelname>
+      <map input="100" output="0"/>
+      <map input="300" output="25"/>
+      <map input="400" output="50"/>
+      <map input="500" output="79"/>
+      <map input="700" output="100"/>
     </axis>
   </axes>
   <sources>
     <source filename="RobotoMono-ThinItalic.ufo" familyname="Roboto Mono" stylename="Thin Italic">
       <location>
-        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Weight" xvalue="0"/>
       </location>
     </source>
     <source filename="RobotoMono-Italic.ufo" familyname="Roboto Mono" stylename="Italic">
@@ -17,47 +21,47 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Weight" xvalue="50"/>
       </location>
     </source>
     <source filename="RobotoMono-BoldItalic.ufo" familyname="Roboto Mono" stylename="Bold Italic">
       <location>
-        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Roboto Mono" stylename="Thin Italic" filename="instances/RobotoMono-ThinItalic.ufo" postscriptfontname="RobotoMono-Thin">
+    <instance familyname="Roboto Mono" stylename="Thin Italic" filename="instances/RobotoMono-ThinItalic.ufo" postscriptfontname="RobotoMono-ThinItalic">
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Mono" stylename="Light Italic" filename="instances/RobotoMono-LightItalic.ufo" postscriptfontname="RobotoMono-LightItalic">
+      <location>
+        <dimension name="Weight" xvalue="25"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Mono" stylename="Italic" filename="instances/RobotoMono-Italic.ufo" postscriptfontname="RobotoMono-RegularItalic">
+      <location>
+        <dimension name="Weight" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Mono" stylename="Medium Italic" filename="instances/RobotoMono-MediumItalic.ufo" postscriptfontname="RobotoMono-MediumItalic">
+      <location>
+        <dimension name="Weight" xvalue="79"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Mono" stylename="Bold Italic" filename="instances/RobotoMono-BoldItalic.ufo" postscriptfontname="RobotoMono-BoldItalic">
       <location>
         <dimension name="Weight" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Roboto Mono" stylename="Light Italic" filename="instances/RobotoMono-LightItalic.ufo" postscriptfontname="RobotoMono-Light">
-      <location>
-        <dimension name="Weight" xvalue="250"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Roboto Mono" stylename="Italic" filename="instances/RobotoMono-Italic.ufo" postscriptfontname="RobotoMono-Regular">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Roboto Mono" stylename="Medium Italic" filename="instances/RobotoMono-MediumItalic.ufo" postscriptfontname="RobotoMono-Medium">
-      <location>
-        <dimension name="Weight" xvalue="574"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Roboto Mono" stylename="Bold Italic" filename="instances/RobotoMono-BoldItalic.ufo" postscriptfontname="RobotoMono-Bold">
-      <location>
-        <dimension name="Weight" xvalue="700"/>
       </location>
       <kerning/>
       <info/>
