@@ -4,6 +4,6 @@
   <unicode hex="1EDF"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hook" xOffset="1265" yOffset="38"/>
+    <component base="hook" xOffset="1201" yOffset="38"/>
   </outline>
 </glyph>

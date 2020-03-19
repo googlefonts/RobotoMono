@@ -4,6 +4,6 @@
   <unicode hex="1EE1"/>
   <outline>
     <component base="ohorn"/>
-    <component base="tilde" xOffset="206" yOffset="12"/>
+    <component base="tilde" xOffset="123" yOffset="12"/>
   </outline>
 </glyph>
