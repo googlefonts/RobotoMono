@@ -3,6 +3,6 @@
   <advance width="1202"/>
   <outline>
     <component base="O.smcp"/>
-    <component base="macron" xOffset="56" yOffset="38"/>
+    <component base="macron" xOffset="25" yOffset="38"/>
   </outline>
 </glyph>

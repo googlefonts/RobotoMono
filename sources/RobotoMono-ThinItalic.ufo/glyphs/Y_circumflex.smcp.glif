@@ -3,6 +3,6 @@
   <advance width="1202"/>
   <outline>
     <component base="Y.smcp"/>
-    <component base="circumflex" xOffset="-15" yOffset="27"/>
+    <component base="circumflex" xOffset="-28" yOffset="27"/>
   </outline>
 </glyph>

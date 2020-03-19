@@ -3,6 +3,6 @@
   <advance width="1202"/>
   <outline>
     <component base="L.smcp"/>
-    <component base="commaaccent" xOffset="10" yOffset="-311"/>
+    <component base="commaaccent" xOffset="125" yOffset="-311"/>
   </outline>
 </glyph>
