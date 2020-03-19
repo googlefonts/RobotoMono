@@ -4,6 +4,8 @@
   <dict>
     <key>com.typemytype.robofont.binarySource</key>
     <string>/Users/pichotta/Downloads/Roboto_Mono/RobotoMono-Bold.ttf</string>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>U1ezPFj4JSwqXa9AtxL2Q_k3IVF9Qqc5KGAw8dMRzcA</string>
     <key>com.typemytype.robofont.segmentType</key>
     <string>qcurve</string>
     <key>public.glyphOrder</key>

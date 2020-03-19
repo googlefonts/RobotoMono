@@ -3,7 +3,5 @@
   <advance width="1229"/>
   <unicode hex="01FB"/>
   <outline>
-    <component base="a"/>
-    <component base="ringacute" xOffset="-28" yOffset="14"/>
   </outline>
 </glyph>
