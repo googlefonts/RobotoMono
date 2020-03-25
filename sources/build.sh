@@ -10,10 +10,12 @@ echo $(pwd)
 echo "Generating Static fonts"
 mkdir -p ../fonts
 fontmake --keep-overlaps -m RobotoMono.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake --keep-overlaps -m RobotoMono-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
 fontmake -m RobotoMono.designspace -o variable --output-path ../fonts/vf/RobotoMono[wght].ttf
+fontmake -m RobotoMono-Italic.designspace -o variable --output-path ../fonts/vf/RobotoMono-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/ instances/
 
