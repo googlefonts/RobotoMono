@@ -54,8 +54,6 @@
     <string>Thin Italic</string>
     <key>openTypeNameUniqueID</key>
     <string>Google:Roboto Mono:2015</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 2.000985; 2015; ttfautohint (v1.3)</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
