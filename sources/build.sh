@@ -14,8 +14,8 @@ fontmake --keep-overlaps -m RobotoMono-Italic.designspace -i -o ttf --output-dir
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
-fontmake -m RobotoMono.designspace -o variable --output-path ../fonts/vf/RobotoMono[wght].ttf
-fontmake -m RobotoMono-Italic.designspace -o variable --output-path ../fonts/vf/RobotoMono-Italic[wght].ttf
+fontmake -m RobotoMono.designspace -o variable --output-path ../fonts/variable/RobotoMono[wght].ttf
+fontmake -m RobotoMono-Italic.designspace -o variable --output-path ../fonts/variable/RobotoMono-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/ instances/
 
@@ -30,7 +30,7 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
 echo "Post processing VFs"
 for vf in $vfs
@@ -55,7 +55,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
@@ -68,5 +68,5 @@ do
 	mv "$vf.fix" $vf;
 done
 
-rm  ../fonts/vf/*gasp.ttf
+rm  ../fonts/variable/*gasp.ttf
 
