@@ -30,6 +30,13 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
+echo "Fixing monospace metadata"
+for ttf in $ttfs
+do
+	gftools fix-isfixedpitch --fonts $ttf;
+	mv "$ttf.fix" $ttf;
+done
+
 vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
 echo "Post processing VFs"
