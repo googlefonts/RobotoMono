@@ -62,10 +62,6 @@
     <string>http://www.apache.org/licenses/LICENSE-2.0</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Roboto Mono</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Thin</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
