@@ -1036,9 +1036,5 @@
       <string>uni0009</string>
       <string>exclam</string>
     </array>
-    <key>public.postscriptNames</key>
-    <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>
