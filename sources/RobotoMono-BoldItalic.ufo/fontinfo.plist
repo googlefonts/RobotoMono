@@ -63,8 +63,6 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
-    <key>openTypeOS2Selection</key>
-    <array/>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>512</integer>
     <key>openTypeOS2StrikeoutSize</key>
