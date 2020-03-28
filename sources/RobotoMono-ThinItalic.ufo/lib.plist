@@ -1047,9 +1047,5 @@
       <string>uni0002</string>
       <string>uni0009</string>
     </array>
-    <key>public.postscriptNames</key>
-    <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>

@@ -15,7 +15,7 @@
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <real>-10.0</real>
     <key>openTypeHeadCreated</key>
     <string>2008/09/12 12:29:34</string>
     <key>openTypeHeadFlags</key>
@@ -48,14 +48,8 @@
     <string>http://www.apache.org/licenses/LICENSE-2.0</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
-    <key>openTypeNamePreferredFamilyName</key>
-    <string>Roboto Mono</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Thin Italic</string>
     <key>openTypeNameUniqueID</key>
     <string>Google:Roboto Mono:2015</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 2.000985; 2015; ttfautohint (v1.3)</string>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
@@ -69,8 +63,6 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
-    <key>openTypeOS2Selection</key>
-    <array/>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>512</integer>
     <key>openTypeOS2StrikeoutSize</key>
@@ -161,9 +153,9 @@
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>versionMajor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>versionMinor</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>1082</integer>
   </dict>

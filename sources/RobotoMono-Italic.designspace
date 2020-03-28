@@ -31,35 +31,35 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Roboto Mono" stylename="Thin Italic" filename="instances/RobotoMono-ThinItalic.ufo" postscriptfontname="RobotoMono-ThinItalic">
+    <instance familyname="Roboto Mono" stylename="Thin Italic" filename="instances/RobotoMono-ThinItalic.ufo" postscriptfontname="RobotoMono-ThinItalic" stylemapfamilyname="Roboto Mono Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Roboto Mono" stylename="Light Italic" filename="instances/RobotoMono-LightItalic.ufo" postscriptfontname="RobotoMono-LightItalic">
+    <instance familyname="Roboto Mono" stylename="Light Italic" filename="instances/RobotoMono-LightItalic.ufo" postscriptfontname="RobotoMono-LightItalic" stylemapfamilyname="Roboto Mono Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="25"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Roboto Mono" stylename="Italic" filename="instances/RobotoMono-Italic.ufo" postscriptfontname="RobotoMono-RegularItalic">
+    <instance familyname="Roboto Mono" stylename="Italic" filename="instances/RobotoMono-Italic.ufo" postscriptfontname="RobotoMono-Italic" stylemapfamilyname="Roboto Mono" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="50"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Roboto Mono" stylename="Medium Italic" filename="instances/RobotoMono-MediumItalic.ufo" postscriptfontname="RobotoMono-MediumItalic">
+    <instance familyname="Roboto Mono" stylename="Medium Italic" filename="instances/RobotoMono-MediumItalic.ufo" postscriptfontname="RobotoMono-MediumItalic" stylemapfamilyname="Roboto Mono Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="79"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Roboto Mono" stylename="Bold Italic" filename="instances/RobotoMono-BoldItalic.ufo" postscriptfontname="RobotoMono-BoldItalic">
+    <instance familyname="Roboto Mono" stylename="Bold Italic" filename="instances/RobotoMono-BoldItalic.ufo" postscriptfontname="RobotoMono-BoldItalic" stylemapfamilyname="Roboto Mono" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
