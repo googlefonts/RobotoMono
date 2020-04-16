@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20AB" format="2">
-  <advance width="1232"/>
+  <advance width="1202"/>
   <unicode hex="20AB"/>
   <outline>
-    <component base="d"/>
-    <component base="crossbar" xOffset="395" yOffset="583"/>
-    <component base="underscore" xOffset="24" yOffset="-124"/>
+    <component base="d" xOffset="-15"/>
+    <component base="crossbar" xOffset="380" yOffset="583"/>
+    <component base="underscore" xOffset="9" yOffset="-124"/>
   </outline>
 </glyph>
