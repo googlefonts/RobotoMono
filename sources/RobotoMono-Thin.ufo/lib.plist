@@ -21,7 +21,6 @@
     <string>qcurve</string>
     <key>public.glyphOrder</key>
     <array>
-      <string>NULL</string>
       <string>space</string>
       <string>A</string>
       <string>B</string>

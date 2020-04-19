@@ -37,7 +37,6 @@
     <integer>1</integer>
     <key>public.glyphOrder</key>
     <array>
-      <string>NULL</string>
       <string>space</string>
       <string>A</string>
       <string>B</string>
