@@ -13,7 +13,7 @@ fontmake --keep-overlaps -m RobotoMono.designspace -i -o ttf --output-dir ../fon
 fontmake --keep-overlaps -m RobotoMono-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
-mkdir -p ../fonts/vf
+mkdir -p ../fonts/variable
 fontmake -m RobotoMono.designspace -o variable --output-path ../fonts/variable/RobotoMono[wght].ttf
 fontmake -m RobotoMono-Italic.designspace -o variable --output-path ../fonts/variable/RobotoMono-Italic[wght].ttf
 
@@ -54,12 +54,17 @@ do
 done
 
 echo "Fixing VF Meta"
-gftools fix-vf-meta $vfs;
+# gftools fix-vf-meta $vfs;
+# for vf in $vfs
+# do
+# 	mv "$vf.fix" $vf;
+# done
+statmake --stylespace stat.stylespace --designspace RobotoMono.designspace --output-path ../fonts/variable/RobotoMono[wght].ttf ../fonts/variable/RobotoMono[wght].ttf;
+statmake --stylespace stat.stylespace --designspace RobotoMono-Italic.designspace --output-path ../fonts/variable/RobotoMono-Italic[wght].ttf ../fonts/variable/RobotoMono-Italic[wght].ttf;
 
 echo "Dropping MVAR"
 for vf in $vfs
 do
-	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
 	new_file=../fonts/variable/$rtrip.ttx;
