@@ -3,7 +3,7 @@ appdirs==1.4.3
 attrs==19.3.0
 beautifulsoup4==4.8.2
 booleanOperations==0.9.0
-certifi==2019.11.28
+certifi==2023.7.22
 chardet==3.0.4
 Click==7.0
 commandlines==0.4.1
