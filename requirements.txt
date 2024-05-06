@@ -57,5 +57,5 @@ unicodedata2==12.1.0
 Unidecode==1.1.1
 urllib3==1.25.8
 vttLib==0.8.0
-Werkzeug==1.0.0
+Werkzeug==3.0.3
 wrapt==1.12.0
