@@ -43,9 +43,9 @@
     <key>openTypeNameDesignerURL</key>
     <string>Christian Robertson</string>
     <key>openTypeNameLicense</key>
-    <string>Licensed under the Apache License, Version 2.0</string>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org</string>
     <key>openTypeNameLicenseURL</key>
-    <string>http://www.apache.org/licenses/LICENSE-2.0</string>
+    <string>https://openfontlicense.org</string>
     <key>openTypeNameManufacturerURL</key>
     <string>Google.com</string>
     <key>openTypeNameUniqueID</key>
@@ -55,7 +55,7 @@
       <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
-      <integer>0</integer>
+      <integer>9</integer>
       <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
@@ -155,7 +155,7 @@
     <key>versionMajor</key>
     <integer>3</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>1082</integer>
   </dict>
