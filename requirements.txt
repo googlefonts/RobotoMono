@@ -55,7 +55,7 @@ h11==0.14.0
 idna==3.7
 importlib_resources==6.4.0
 iniconfig==2.0.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 kiwisolver==1.4.5
 kurbopy==0.11.0
 lxml==5.2.2
