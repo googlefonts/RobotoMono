@@ -1,0 +1,6 @@
+
+sources:
+  - RobotoMono.designspace
+# font doesn't have overlaps
+removeOutlineOverlaps: false
+buildSmallCap: false
