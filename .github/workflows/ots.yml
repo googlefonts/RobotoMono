@@ -1,0 +1,19 @@
+name: OpenType Sanitizer tests
+
+on: [push, pull_request]
+
+jobs:
+  opentype-sanitizer:
+    runs-on: ubuntu-latest
+    name: OpenType Sanitizer tests
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v4
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: OpenType Sanitizer tests
+        uses: f-actions/opentype-sanitizer@v3
+        with:
+          path: fonts/**/*.{ttf,otf}
