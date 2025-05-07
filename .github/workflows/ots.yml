@@ -1,6 +1,14 @@
 name: OpenType Sanitizer tests
 
-on: [push, pull_request]
+on:
+  push:
+    branches: [main]
+    tags: ["*"]
+  pull_request:
+    types: [opened, synchronize, reopened]
+  release:
+    # A release, pre-release, or draft of a release was published
+    types: [published]
 
 jobs:
   opentype-sanitizer:
