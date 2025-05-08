@@ -1,0 +1,31 @@
+name: OpenType Sanitizer tests
+
+on:
+  push:
+    branches: [main]
+    tags: ["*"]
+  pull_request:
+    types: [opened, synchronize, reopened]
+  release:
+    # A release, pre-release, or draft of a release was published
+    types: [published]
+
+jobs:
+  opentype-sanitizer:
+    runs-on: ubuntu-latest
+    name: OpenType Sanitizer tests
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v4
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: OpenType Sanitizer tests TTF
+        uses: f-actions/opentype-sanitizer@v3
+        with:
+          path: fonts/**/*.ttf
+      - name: OpenType Sanitizer tests OTF
+        uses: f-actions/opentype-sanitizer@v3
+        with:
+          path: fonts/**/*.otf
