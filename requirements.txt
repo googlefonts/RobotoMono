@@ -43,7 +43,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 glyphsets==1.1.0
 glyphsLib==6.10.1
-h11==0.14.0
+h11==0.16.0
 idna==3.10
 importlib_resources==6.5.2
 Jinja2==3.1.6
