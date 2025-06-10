@@ -85,7 +85,7 @@ python-bidi==0.4.2
 python-dateutil==2.9.0.post0
 PyYAML==6.0.2
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 resvg-cli==0.44.0
 rich==14.0.0
 rstr==3.2.2
