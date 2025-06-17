@@ -68,7 +68,7 @@ picosvg==0.22.1
 pillow==11.1.0
 pip-api==0.0.34
 pngquant-cli==3.0.3
-protobuf==3.20.3
+protobuf==4.25.8
 pyahocorasick==2.1.0
 pybind11==2.13.6
 pycairo==1.27.0
