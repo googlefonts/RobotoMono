@@ -20,7 +20,7 @@ cmarkgfm==2024.11.20
 collidoscope==0.6.5
 commandlines==0.4.1
 compreffor==0.5.6
-cryptography==44.0.2
+cryptography==46.0.6
 defcon==0.12.1
 dehinter==4.0.0
 Deprecated==1.2.18
