@@ -48,7 +48,7 @@ idna==3.10
 importlib_resources==6.5.2
 Jinja2==3.1.6
 kurbopy==0.11.1
-lxml==5.3.1
+lxml==6.1.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
